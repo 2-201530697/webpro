@@ -1,4 +1,4 @@
-package org.zerock.controller;
+package org.zerock.controller2;
 
 import javax.inject.Inject;
 
